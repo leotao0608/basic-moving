@@ -1,1 +1,14 @@
-
+#hero{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color: rgb(155, 217, 241);
+    margin: 100px;
+    border: 2px solid black;
+}
+#border{
+    margin: 50px;
+    height: 400px;
+    width: 650px;
+    background-color:rgb(147, 156, 157);
+}
